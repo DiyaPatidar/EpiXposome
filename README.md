@@ -139,5 +139,5 @@ NMF formula:
 - Paul Kao
 - Macciej Kowalski
 - Aung Myat Phyo
-- Diya
+- Diya Patidar
 - Alishba Nadeem
